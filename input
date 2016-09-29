@@ -1,0 +1,7 @@
+https://www.netnutri.com/azteca-products-lipo-derm-alcachofa-4-oz
+Price		//*[@id='product-price-3709']/text()
+Product Name		//*[@id="product_addtocart_form"]/div[3]/div[1]/h1/text()
+UPC
+SKU		.//*[@id='product-attribute-specs-table']/tbody/tr[4]/td/text()
+Image
+Retail Price
