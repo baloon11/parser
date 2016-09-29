@@ -1,5 +1,5 @@
 # parser
-This is an example of html parser that uses xpath expressions. (Python 2.7)  
+This is an example of html parser that uses xpath expressions (Python 2.7).  
 
 ##### Before usage
 
